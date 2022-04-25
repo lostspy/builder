@@ -1,4 +1,4 @@
-FROM nyp219/ocp3-final
+FROM nyp219/final003
 ENV PATH="${PATH}:/app/"
 RUN pwd
 RUN mkdir -p /app
